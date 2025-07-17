@@ -28,7 +28,7 @@ except ImportError:
 import time
 from time import sleep
 import json,ast
-os.system('clear')
+os.system('cls')
  
 init(autoreset=True)
 
