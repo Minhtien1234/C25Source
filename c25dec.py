@@ -100,7 +100,7 @@ print(f'{luc}{lam}────────────────────�
 print(f"""{luc}┏━━━━━━━━━━━━━━━━━━━━━━━┓
 {vang}┃   {vang}Tool Tiện Ích       {vang}┃
 {lam}┗━━━━━━━━━━━━━━━━━━━━━━━┛""")
-print(f'{thanh_xau}Nhập [3.1] Tool Doss Web + Doss IP')
+print(f'{thanh_xau}Nhập [3.1] Tool Doss Web + Doss IP[bảo trì]')
 print(f'{thanh_xau}Nhập [3.2] Tool Get Proxy')
 print(f'{thanh_xau}Nhập [3.3] Tool Lọc Proxy')
 print(f'{thanh_xau}Nhập [3.4] Tool Scan Mail Ảo Lấy Mã')
