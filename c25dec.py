@@ -81,7 +81,7 @@ print(f"""{luc}┏━━━━━━━━━━━━━━━━━━━━�
 {lam}┗━━━━━━━━━━━━━━━━━━━━━━━┛ """)
 print(f'{thanh_xau}Nhập [1.1] Tool Cày Xu TDS Tiktok')
 print(f'{thanh_xau}Nhập [1.2] Tool Cày Xu TDS Instagram')
-print(f'{thanh_xau}Nhập [1.3] Tool Golike TikTok [ADR]')
+print(f'{thanh_xau}Nhập [1.3] Tool Golike TikTok [Android]')
 print(f'{thanh_xau}Nhập [1.4] Tool Golike Instagram')
 print(f'{thanh_xau}Nhập [1.5] Tool Cày Xu TDS Facebook')
 
